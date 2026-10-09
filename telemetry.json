@@ -1,0 +1,121 @@
+[
+  { "name": "motor_speed",        
+    "type": "float",   
+    "value": 1500.5 },
+
+  { "name": "motor_current",      
+    "type": "int",     
+    "value": 26 },
+
+  { "name": "motor_voltage",      
+    "type": "float",   
+    "value": 380.1 },
+
+  { "name": "motor_torque",       
+    "type": "byte",    
+    "value": 37 },
+
+  { "name": "motor_temperature", 
+    "type": "float",   
+    "value": 65.4 },
+
+  { "name": "dc_bus_voltage",     
+    "type": "boolean", 
+    "value": true },
+
+  { "name": "phase_current_a",    
+    "type": "int",     
+    "value": 91 },
+    
+  { "name": "phase_current_b",    
+    "type": "float",   
+    "value": 13.6 },
+
+  { "name": "phase_current_c",    
+    "type": "int",     
+    "value": 44 },
+
+  { "name": "phase_voltage_a",    
+    "type": "byte",    
+    "value": 72 },
+
+  { "name": "phase_voltage_b",    
+    "type": "boolean", 
+    "value": false },
+
+  { "name": "phase_voltage_c",    
+    "type": "int",     
+    "value": 156 },
+
+  { "name": "frequency",          
+    "type": "float",   
+    "value": 50.0 },
+
+  { "name": "power_factor",       
+    "type": "float",   
+    "value": 0.98 },
+
+  { "name": "active_power",       
+    "type": "byte",    
+    "value": 107 },
+
+  { "name": "reactive_power",     
+    "type": "boolean", 
+    "value": false },
+
+  { "name": "apparent_power",     
+    "type": "int",     
+    "value": 221 },
+
+  { "name": "energy_total",       
+    "type": "double",  
+    "value": 30.6 },
+
+  { "name": "energy_daily",       
+    "type": "double",  
+    "value": 5.2 },
+
+  { "name": "temperature_drive",  
+    "type": "boolean", 
+    "value": true },
+
+  { "name": "temperature_ambient",
+    "type": "int",     
+    "value": 24 },
+
+  { "name": "pressure_inlet",     
+    "type": "float",   
+    "value": 1.2 },
+
+  { "name": "pressure_outlet",    
+    "type": "byte",    
+    "value": 17 },
+
+  { "name": "flow_rate",          
+    "type": "boolean", 
+    "value": false },
+
+  { "name": "humidity",           
+    "type": "int",     
+    "value": 45 },
+
+  { "name": "vibration_level",    
+    "type": "float",   
+    "value": 0.7 },
+
+  { "name": "position_actual",    
+    "type": "double",  
+    "value": 123.45 },
+
+  { "name": "velocity_actual",    
+    "type": "boolean", 
+    "value": true },
+
+  { "name": "acceleration_actual",
+    "type": "int",     
+    "value": 416 },
+
+  { "name": "fault_code",         
+    "type": "int",     
+    "value": 0 }
+]
