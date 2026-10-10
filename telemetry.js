@@ -4,7 +4,7 @@ const fs = require('fs');
 const fileData = fs.readFileSync('telemetry.json', 'utf8');
 const objectsPool = JSON.parse(fileData);
 
-console.log('Всего объектов в пуле:', objectsPool.length);
+console.log('Всего объектов:', objectsPool.length);
 
 const db = new Database('telemetry.db');
 
